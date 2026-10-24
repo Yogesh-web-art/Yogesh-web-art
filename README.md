@@ -19,6 +19,12 @@
 
 ---
 
+### 👋 Hello & Welcome to My Digital Space!
+
+> *"A very warm welcome! Thank you for taking the time to visit my developer profile. I'm **Yogeeshwar Jangam**, an aspiring Java Full Stack Developer based in Hyderabad, India. I am passionate about crafting robust, enterprise-grade backends with **Spring Boot** and building clean, responsive, and intuitive web experiences with modern Frontends. Whether you're a recruiter, fellow engineer, or curious visitor, I'm delighted to connect with you!"*
+
+---
+
 ### 👨‍💻 About Me
 
 ```java
@@ -26,6 +32,7 @@ public class Developer {
     String name        = "Yogeeshwar Jangam";
     String role        = "Java Full Stack Developer";
     String location    = "Hyderabad, India";
+    String email       = "yogeeshwar.jangam@gmail.com";
     String[] backend   = {"Java", "Spring Boot", "Spring Data JPA", "Hibernate", "REST APIs", "Maven"};
     String[] frontend  = {"JavaScript (ES6+)", "React", "HTML5", "CSS3", "Tailwind"};
     String[] database  = {"MySQL", "PostgreSQL"};
@@ -46,7 +53,7 @@ public class Developer {
 - 🌱 **Learning & Exploring:** Microservices architecture, Docker containerization, and advanced system design patterns.
 - 💡 **Core Strengths:** Building robust RESTful services, database modeling with Hibernate/JPA, clean code architecture, and responsive UI design.
 - 🎯 **Career Goal:** Delivering high-impact, scalable, and resilient software for forward-thinking engineering teams.
-- 📫 **How to reach me:** [yogieeshwar2075@gmail.com](mailto:yogieeshwar2075@gmail.com)
+- 📫 **How to reach me directly:** [yogeeshwar.jangam@gmail.com](mailto:yogeeshwar.jangam@gmail.com)
 
 ---
 
@@ -110,13 +117,27 @@ public class Developer {
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:yogieeshwar2075@gmail.com">
+  <a href="mailto:yogeeshwar.jangam@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Yogesh-web-art" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-00F2FE?style=for-the-badge&logo=github&logoColor=000&labelColor=0d1117" alt="GitHub" />
   </a>
+</p>
+
+---
+
+### 💖 Thank You for Visiting!
+
+> *"I sincerely appreciate you taking the time to explore my developer journey and projects. Whether you are looking for a dedicated Java Full Stack Developer for exciting career opportunities, looking to collaborate on innovative solutions, or simply want to chat about code and architecture—my inbox is always open!"*
+
+<p align="center">
+  <i>✨ "Code with purpose. Build with passion. Always keep learning." ✨</i>
+</p>
+
+<p align="center">
+  <b>⭐ If you enjoyed exploring my work, please consider starring my repositories! ⭐</b>
 </p>
 
 <p align="center">
