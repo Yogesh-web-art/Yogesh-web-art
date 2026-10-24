@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/Yogesh-web-art">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Hello+World!+I'm+Yogeeshwar;Java+Full+Stack+Developer;Spring+Boot+and+Microservices+Specialist;Database+Architect+|+MySQL+and+Hibernate;Building+Scalable+Enterprise+Solutions;Passionate+about+Clean+Architecture" alt="Typing Animation" />
+    <img src="https://raw.githubusercontent.com/Yogesh-web-art/Yogesh-web-art/main/typing.svg" width="650" alt="Typing Animation" />
   </a>
 </p>
 
@@ -95,7 +95,7 @@ public class Developer {
 | Project | Tech Stack | Description | Repository |
 | :--- | :--- | :--- | :---: |
 | **FuelOnWheels** | `Java` • `Spring Boot` • `React` • `REST` | Full-stack on-demand fuel ordering & delivery service with role-based dispatch | [View Code ↗](https://github.com/Yogesh-web-art/FuelOnWheels-FullStack) |
-| **Java-Backend-Learning** | `Java` • `Spring Core` • `JDBC` • `Hibernate` | Deep-dive hands-on implementations of Spring Dependency Injection, Hibernate ORM & Transactions | [View Code ↗](https://github.com/Yogesh-web-art/Java-Backend-Learning) |
+| **Java-Backend-Learning** | `Java` • `Spring Core` • `JDBC` • `Hibernate` | Deep-dive hands-on implementations of Spring Dependency Injection, Hibernate ORM mappings & Transactions | [View Code ↗](https://github.com/Yogesh-web-art/Java-Backend-Learning) |
 | **SmartQ** | `JavaScript` • `HTML5` • `CSS3` | Smart digital queue management application optimizing waiting times | [View Code ↗](https://github.com/Yogesh-web-art/SmartQ) |
 | **Web Development Suite** | `HTML5` • `CSS3` • `JavaScript` | Collection of responsive web modules, interactive components, and clones | [View Code ↗](https://github.com/Yogesh-web-art/Web_Development) |
 
