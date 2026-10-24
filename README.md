@@ -1,16 +1,18 @@
-## Hi there 👋
+public class Developer {
+    String name        = "Yogeeshwar Jangam";
+    String role        = "Java Full Stack Developer";
+    String location    = "Hyderabad, India";
+    String[] backend   = {"Java", "Spring Boot", "Spring Data JPA", "Hibernate", "REST APIs", "Maven"};
+    String[] frontend  = {"JavaScript (ES6+)", "React", "HTML5", "CSS3", "Tailwind"};
+    String[] database  = {"MySQL", "PostgreSQL"};
+    boolean availableForHire = true;
 
-<!--
-**Yogesh-web-art/Yogesh-web-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    public void executeLifeCycle() {
+        while (alive) {
+            code();
+            refactor();
+            solveProblems();
+            coffee.refill();
+        }
+    }
+}
