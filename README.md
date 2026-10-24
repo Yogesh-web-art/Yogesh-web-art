@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color=00e5ff,7c3aed&height=220&section=header&text=YOGEESHWAR%20JANGAM&fontSize=42&fontAlignY=36&desc=Java%20Full%20Stack%20Developer%20%7C%20Spring%20Boot&descAlignY=58&descAlign=50" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F2FE,50:7B2CBF,100:FF007F&height=230&section=header&text=YOGEESHWAR%20JANGAM&fontSize=42&fontAlignY=36&desc=Java%20Full%20Stack%20Developer%20%7C%20Spring%20Boot&descAlignY=58&descAlign=50" width="100%" alt="Header Banner" />
 </p>
 
 <p align="center">
@@ -9,10 +9,12 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/j-yogeeshwar-619768256"><img src="https://img.shields.io/badge/Status-Open%20to%20Work-00e5ff?style=for-the-badge&logo=rocket&logoColor=black" alt="Status" /></a>
-  <img src="https://img.shields.io/badge/Focus-Spring%20Boot%20%26%20REST%20APIs-7c3aed?style=for-the-badge&logo=spring&logoColor=white" alt="Focus" />
-  <img src="https://img.shields.io/badge/Location-Hyderabad%2C%20India-blue?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
-  <img src="https://komarev.com/ghpvc/?username=Yogesh-web-art&label=Profile%20Views&color=00e5ff&style=for-the-badge" alt="Views" />
+  <a href="https://linkedin.com/in/j-yogeeshwar-619768256" target="_blank">
+    <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20OPPORTUNITIES-00F5D4?style=for-the-badge&logo=rocket&logoColor=000&labelColor=0d1117" alt="Status" />
+  </a>
+  <img src="https://img.shields.io/badge/STACK-JAVA%20%E2%80%A2%20SPRING%20BOOT-7B2CBF?style=for-the-badge&logo=spring&logoColor=white&labelColor=0d1117" alt="Stack" />
+  <img src="https://img.shields.io/badge/LOCATION-HYDERABAD%2C%20INDIA-FF007F?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0d1117" alt="Location" />
+  <img src="https://komarev.com/ghpvc/?username=Yogesh-web-art&label=VISITORS&color=00F5D4&style=for-the-badge" alt="Views" />
 </p>
 
 ---
@@ -68,12 +70,12 @@ public class Developer {
 ### 📊 GitHub Activity & Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yogesh-web-art&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=00e5ff&text_color=94a3b8" width="48.5%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yogesh-web-art&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&text_color=94a3b8" width="48.5%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Yogesh-web-art&show_icons=true&hide_border=false&bg_color=0d1117&title_color=00F2FE&icon_color=FF007F&text_color=E2E8F0&ring_color=00F2FE&border_color=7B2CBF&border_radius=10" width="48.5%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yogesh-web-art&layout=compact&hide_border=false&bg_color=0d1117&title_color=00F2FE&text_color=E2E8F0&border_color=7B2CBF&border_radius=10" width="48.5%" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yogesh-web-art&theme=tokyonight&hide_border=true&background=0d1117&ring=00e5ff&fire=00e5ff&currStreakLabel=00e5ff" width="98%" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yogesh-web-art&theme=tokyonight&hide_border=false&border=7B2CBF&border_radius=10&background=0d1117&ring=00F2FE&fire=FF007F&currStreakLabel=00F2FE&currStreakNum=FFFFFF&sideNums=00F2FE&sideLabels=94A3B8&dates=E2E8F0" width="98%" alt="GitHub Streak" />
 </p>
 
 ---
@@ -105,18 +107,18 @@ public class Developer {
 
 <p align="center">
   <a href="https://linkedin.com/in/j-yogeeshwar-619768256" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:yogieeshwar2075@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Yogesh-web-art" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-00F2FE?style=for-the-badge&logo=github&logoColor=000&labelColor=0d1117" alt="GitHub" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color=00e5ff,7c3aed&height=100&section=footer" width="100%" alt="Footer Wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F2FE,50:7B2CBF,100:FF007F&height=120&section=footer" width="100%" alt="Footer Wave" />
 </p>
