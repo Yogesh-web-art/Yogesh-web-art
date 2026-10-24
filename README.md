@@ -21,7 +21,7 @@
 
 ### 👋 Hello & Welcome to My Digital Space!
 
-> *"A very warm welcome! Thank you for taking the time to visit my developer profile. I'm **Yogeeshwar Jangam**, an aspiring Java Full Stack Developer based in Hyderabad, India. I am passionate about crafting robust, enterprise-grade backends with **Spring Boot** and building clean, responsive, and intuitive web experiences with modern Frontends. Whether you're a recruiter, fellow engineer, or curious visitor, I'm delighted to connect with you!"*
+> *"A very warm welcome! Thank you for taking the time to visit my profile. I'm **Yogeeshwar Jangam**, an aspiring Java Full Stack Developer based in Hyderabad, India. I am passionate about crafting robust, enterprise-grade backends with **Spring Boot** and building clean, responsive, and intuitive web experiences with modern Frontends. Whether you're a recruiter, fellow engineer, or curious visitor, I'm delighted to connect with you!"*
 
 ---
 
