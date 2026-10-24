@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/Yogesh-web-art">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00E5FF&center=true&vCenter=true&width=650&lines=👋+Hello+World!+I'm+Yogeeshwar;⚡+Java+Full+Stack+Developer;🚀+Specialized+in+Spring+Boot+%26+Microservices;💾+Database+Architect+%7C+MySQL+%26+Hibernate;💻+Building+Scalable+Enterprise+Solutions;🎯+Passionate+about+Clean+Architecture" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Hello+World!+I'm+Yogeeshwar;Java+Full+Stack+Developer;Spring+Boot+and+Microservices+Specialist;Database+Architect+|+MySQL+and+Hibernate;Building+Scalable+Enterprise+Solutions;Passionate+about+Clean+Architecture" alt="Typing Animation" />
   </a>
 </p>
 
